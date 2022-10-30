@@ -1,2 +1,4 @@
 # NS201-Behavioral-Experiment
 Programs to find out the trend between frequency differences perceived and baseline frequency. JND for different audio frequencies was calculated. Weber's Law is verified. 
+We probe to find out the trend between frequency differences perceived and the baseline frequency used. We hypothesise that the Just Noticeable Difference would be higher for higher frequencies and lower for lower frequencies i.e., follows Weber's Law. The detection percentages calculated are expected to follow a psychometric curve: we hypothesise that frequency differences are more easily detected when the difference is larger; the detection accuracy of a person goes down as frequency difference reduces, thereby giving us a psychometric curve on plotting audio detection accuracy with frequency differences. This experiment also aids in calculating the Just Noticeable Difference for different frequencies. 
+This experiment has been designed to prove these hypotheses. 
